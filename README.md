@@ -1,4 +1,6 @@
 # Mi-cancion
+Brian Jera Eze Grupo
+
 
 Si fuera mago del tiempo
 Tan solo un momento para volver a mirar
@@ -19,4 +21,4 @@ Que no me olvides si no te vuelvo
 A ver cerca de mi otra vez
 Lo que vivimos tu y yo nunca lo vos y aolvidar
 Esta en mi mente y para siempre estaras
-En mi corazón viviras................
+En mi corazón viviras.......
